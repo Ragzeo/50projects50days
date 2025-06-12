@@ -1,5 +1,53 @@
 # 50projects50days
-prueba de md
+prueba de md\
 **Lista de páginas**
-- [ ] página 1
-- [ ] página 2
+- [ ] página 01 - Expanding Cards
+- [ ] página 02 - Progress Steps
+- [ ] página 03 - Rotating Navigation Animation
+- [ ] página 04 - Hidden Search Widget
+- [ ] página 05 - Blurry Loading
+- [ ] página 06 - Scroll Animation
+- [ ] página 07 - Split Landing Page
+- [ ] página 08 - Form Wave
+- [ ] página 09 - Sound Board
+- [ ] página 10 - Dad Jokes
+- [ ] página 11 - Event Keycodes
+- [ ] página 12 - Faq Collapse
+- [ ] página 13 - Random Choice Picker
+- [ ] página 14 - Animated Navigation
+- [ ] página 15 - Incrementing Counter
+- [ ] página 16 - Drink Water
+- [ ] página 17 - Movie App
+- [ ] página 18 - Background Slider
+- [ ] página 19 - Theme Clock
+- [ ] página 20 - Button Ripple Effect
+- [ ] página 21 - Drag N Drop
+- [ ] página 22 - Drawing App
+- [ ] página 23 - Kinetic Loader
+- [ ] página 24 - Content Placeholder
+- [ ] página 25 - Sticky Navbar
+- [ ] página 26 - Double Vertical Slider
+- [ ] página 27 - Toast Notification
+- [ ] página 28 - Github Profiles
+- [ ] página 29 - Double Click Heart
+- [ ] página 30 - Auto Text Effect
+- [ ] página 31 - Password Generator
+- [ ] página 32 - Good Cheap Fast
+- [ ] página 33 - Notes App
+- [ ] página 34 - Animated Countdown
+- [ ] página 35 - Image Carousel
+- [ ] página 36 - Hoverboard
+- [ ] página 37 - Pokedex
+- [ ] página 38 - Mobile Tab Navigation
+- [ ] página 39 - Password Strength Background
+- [ ] página 40 - 3d Background Boxes
+- [ ] página 41 - Verify Account Ui
+- [ ] página 42 - Live User Filter
+- [ ] página 43 - Feedback Ui Design
+- [ ] página 44 - Custom Range Slider
+- [ ] página 45 - Netflix Mobile Navigation
+- [ ] página 46 - Quizz App
+- [ ] página 47 - Testimonial Box Switcher
+- [ ] página 48 - Random Image Feed
+- [ ] página 49 - Todo List
+- [ ] página 50 - Insect Catch Game

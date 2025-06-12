@@ -1,0 +1,60 @@
+* {
+    box-sizing: border-box;
+    outline: unset;
+    border: unset;
+    margin: unset;
+    padding: unset;
+}
+
+body {
+    background-color: aquamarine;
+    padding: 20px;
+}
+
+.header {
+    display: flex;
+    flex-direction: column;
+}
+
+.header h1 {
+    text-align: center;
+}
+
+.header p {
+    text-align: end;
+    font-size: 10px;
+}
+
+.contenedor {
+    display: flex;
+    justify-content: space-between;
+    padding: 50px;
+    gap: 10px;
+    width: 100vh;
+    height: 100vh;
+}
+
+.contenedor div {
+    width: 20vh;
+    height: 20vh;
+}
+
+.Monster {
+    background-image: url(assets/Monster\ Hunter.jpg);
+}
+
+.Balatro {
+    background-image: url(assets/Balatro.jpg);
+}
+
+.Cult {
+    background-image: url(assets/Cult.jpg);
+}
+
+.Mario {
+    background-image: url(assets/Mario.jpg);
+}
+
+.Terraria {
+    background-image: url(assets/Terraria.jpg);
+}
